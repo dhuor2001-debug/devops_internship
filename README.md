@@ -1,3 +1,8 @@
+# devops_internship
+I have created new branch from the master branch, and the file is index.html
+
+This is the second week assignment, i have created the first files from solving the task one. and also created the second file from task two. As pushing it now, i am using the branch that's named second_branch. 
+
 # DevOps Internship
 
 This repository contains exercises, examples, and small projects completed during a DevOps internship. The goal of the repository is to collect hands-on work related to infrastructure as code, CI/CD, containerization, configuration management, monitoring, and related tooling.
